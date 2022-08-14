@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Agmr8seTjjgUcNYMucDDzuSqktd3Ynbvu2aWDJ+sdv3wKR4KLNS7JYWgJft9gO36B6Xslq1F5/0RAm+IuBQEdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sebbna\\Downloads\\LexicalAnalyzer-main (1)\\LexicalAnalyzer-main\\LexicalAnalyzer\\LexicalAnalyzer\\Analyzer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sebbna\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

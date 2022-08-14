@@ -1,0 +1,13 @@
+C:\Users\sebbna\Downloads\LexicalAnalyzer-main (1)\LexicalAnalyzer-main\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\net461\Analyzer.csproj.AssemblyReference.cache
+C:\Users\sebbna\Downloads\LexicalAnalyzer-main (1)\LexicalAnalyzer-main\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\net461\Analyzer.csproj.SuggestedBindingRedirects.cache
+C:\Users\sebbna\Downloads\LexicalAnalyzer-main (1)\LexicalAnalyzer-main\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\net461\Analyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebbna\Downloads\LexicalAnalyzer-main (1)\LexicalAnalyzer-main\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\net461\Analyzer.AssemblyInfoInputs.cache
+C:\Users\sebbna\Downloads\LexicalAnalyzer-main (1)\LexicalAnalyzer-main\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\net461\Analyzer.AssemblyInfo.cs
+C:\Users\sebbna\Downloads\LexicalAnalyzer-main (1)\LexicalAnalyzer-main\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\net461\Analyzer.csproj.CoreCompileInputs.cache
+C:\Users\sebbna\Downloads\LexicalAnalyzer-main (1)\LexicalAnalyzer-main\LexicalAnalyzer\LexicalAnalyzer\bin\Debug\net461\Analyzer.exe.config
+C:\Users\sebbna\Downloads\LexicalAnalyzer-main (1)\LexicalAnalyzer-main\LexicalAnalyzer\LexicalAnalyzer\bin\Debug\net461\Analyzer.exe
+C:\Users\sebbna\Downloads\LexicalAnalyzer-main (1)\LexicalAnalyzer-main\LexicalAnalyzer\LexicalAnalyzer\bin\Debug\net461\Analyzer.pdb
+C:\Users\sebbna\Downloads\LexicalAnalyzer-main (1)\LexicalAnalyzer-main\LexicalAnalyzer\LexicalAnalyzer\bin\Debug\net461\System.ComponentModel.Annotations.dll
+C:\Users\sebbna\Downloads\LexicalAnalyzer-main (1)\LexicalAnalyzer-main\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\net461\Analyzer.csproj.CopyComplete
+C:\Users\sebbna\Downloads\LexicalAnalyzer-main (1)\LexicalAnalyzer-main\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\net461\Analyzer.exe
+C:\Users\sebbna\Downloads\LexicalAnalyzer-main (1)\LexicalAnalyzer-main\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\net461\Analyzer.pdb

@@ -1,0 +1,15 @@
+C:\Users\sebbna\Downloads\LexicalAnalyzer-main (1)\LexicalAnalyzer-main\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\net6.0\Analyzer.csproj.AssemblyReference.cache
+C:\Users\sebbna\Downloads\LexicalAnalyzer-main (1)\LexicalAnalyzer-main\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\net6.0\Analyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebbna\Downloads\LexicalAnalyzer-main (1)\LexicalAnalyzer-main\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\net6.0\Analyzer.AssemblyInfoInputs.cache
+C:\Users\sebbna\Downloads\LexicalAnalyzer-main (1)\LexicalAnalyzer-main\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\net6.0\Analyzer.AssemblyInfo.cs
+C:\Users\sebbna\Downloads\LexicalAnalyzer-main (1)\LexicalAnalyzer-main\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\net6.0\Analyzer.csproj.CoreCompileInputs.cache
+C:\Users\sebbna\Downloads\LexicalAnalyzer-main (1)\LexicalAnalyzer-main\LexicalAnalyzer\LexicalAnalyzer\bin\Debug\net6.0\Analyzer.exe
+C:\Users\sebbna\Downloads\LexicalAnalyzer-main (1)\LexicalAnalyzer-main\LexicalAnalyzer\LexicalAnalyzer\bin\Debug\net6.0\Analyzer.deps.json
+C:\Users\sebbna\Downloads\LexicalAnalyzer-main (1)\LexicalAnalyzer-main\LexicalAnalyzer\LexicalAnalyzer\bin\Debug\net6.0\Analyzer.runtimeconfig.json
+C:\Users\sebbna\Downloads\LexicalAnalyzer-main (1)\LexicalAnalyzer-main\LexicalAnalyzer\LexicalAnalyzer\bin\Debug\net6.0\Analyzer.dll
+C:\Users\sebbna\Downloads\LexicalAnalyzer-main (1)\LexicalAnalyzer-main\LexicalAnalyzer\LexicalAnalyzer\bin\Debug\net6.0\Analyzer.pdb
+C:\Users\sebbna\Downloads\LexicalAnalyzer-main (1)\LexicalAnalyzer-main\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\net6.0\Analyzer.dll
+C:\Users\sebbna\Downloads\LexicalAnalyzer-main (1)\LexicalAnalyzer-main\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\net6.0\refint\Analyzer.dll
+C:\Users\sebbna\Downloads\LexicalAnalyzer-main (1)\LexicalAnalyzer-main\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\net6.0\Analyzer.pdb
+C:\Users\sebbna\Downloads\LexicalAnalyzer-main (1)\LexicalAnalyzer-main\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\net6.0\Analyzer.genruntimeconfig.cache
+C:\Users\sebbna\Downloads\LexicalAnalyzer-main (1)\LexicalAnalyzer-main\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\net6.0\ref\Analyzer.dll
